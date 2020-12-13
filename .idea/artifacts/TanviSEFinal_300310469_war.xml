@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TanviSEFinal_300310469:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>TanviSEFinal_300310469</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="TanviSEFinal_300310469-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TanviSEFinal_300310469:war exploded" />
+    </root>
+  </artifact>
+</component>
